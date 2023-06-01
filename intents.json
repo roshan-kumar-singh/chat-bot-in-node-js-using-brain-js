@@ -1,0 +1,30 @@
+[
+    {
+        "intents": ["Namaste", "Hi", "Hello", "Good Day"],
+        "response": "Hello! How can I help you?"
+    },
+    {
+        "intents": ["What is your name?", "What's your name", "What are you called?", "Who are you?"],
+        "response": "I am Laxmi AI"
+    },
+    {
+        "intents": ["Tell me about itaxeasy", "itaxeasy", "what is itaxeasy", "History of Itaxeasy"],
+        "response": "Itaxeasy is an AI-driven platform for easing the process of doing taxes."
+    },
+    {
+        "intents": ["how are you doing?", "How are you doing?", "How are you", "What is going on?"],
+        "response": "I am fine."
+    },
+    {
+        "intents": ["How to file ITR", "File IT Return", "File ITR"],
+        "response": "1. Click on \"File ITR\" Button\n2. Upload your Form 16\n3. Download JSON File and upload it to Income Tax Website"
+    },
+    {
+        "intents": ["How to file GSTR", "How to gst return", "How can file GSTR"],
+        "response": "You can file GSTR by going to \"GST Return\" section of Billshill By Itaxeasy"
+    },
+    {
+        "intents": ["What is Due date for filing IT Return", "What is last day for of filing itr", "Deadline for filing ITR"],
+        "response": "You must file your income tax returns (ITR) for the financial year ending 31st March by 31st July of the same year."
+    }
+]
